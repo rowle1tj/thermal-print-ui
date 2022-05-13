@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: rgb(175, 186, 197);
+}
+
+#input {
+    background-color: rgb(33, 38, 46);
+    color: rgb(240, 246, 252);
+    border: none;
+    width: 100%;
+    min-height: 145px;
+}
+
+#button-box {
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+
+button {
+    background-color: rgb(86,211,100);
+    padding: 9px;
+    color: rgb(240, 246, 252);
+    cursor: pointer;
+}
